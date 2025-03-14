@@ -2,12 +2,6 @@
 
 I'm a **Computing Science student at Simon Fraser University**, passionate about software development, cybersecurity, and machine learning. My projects range from **web applications and database systems** to **machine learning models and cybersecurity simulations**.
 
-## 🔹 Tech Stack
-- **Languages:** C, C++, Java, Python, SQL, JavaScript
-- **Frameworks & Tools:** React, Next.js, Node.js, Angular, Spring Boot, Express.js, Rest API, JSON
-- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase Realtime Database
-- **Other:** Git, GitLab, GitHub, VS Code, Visual Studio, IntelliJ, Eclipse, MATLAB, R, LaTeX, AWS, Vercel, Anaconda, Jupyter, Pandas, TailwindCSS, CI/CD
-
 ## 🔹 Interests
 - Web Development
 - Machine Learning
@@ -20,6 +14,7 @@ I'm a **Computing Science student at Simon Fraser University**, passionate about
 - **Tic Tac Toe Multiplayer** - Real-time game with messaging  
   [View Project](https://tic-tac-toe-muliplayer.vercel.app/)
 - **Formula 1 Race Predictor** - Predicts race outcomes using historical F1 data
+  
 ## 🔹 Find Me
 - LinkedIn: [@LinkedIn/rubendua](https://www.linkedin.com/in/ruben-dua/)
 <!-- - Portfolio: [rubendua.com](https://yourportfolio.com) -->
