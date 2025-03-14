@@ -1,12 +1,11 @@
 # 👋 Hey there! I'm Ruben Dua
 
-I'm a **Computing Science student at Simon Fraser University**, passionate about software development, cybersecurity, and machine learning. My projects range from **web applications and database systems** to **machine learning models and cybersecurity simulations**.
+- 🎓 **Computing Science student at Simon Fraser University**
+- 💻 Passionate about **Software Development**, **Cybersecurity**, and **Machine Learning**
+- 🌐 Skilled in **Web Development**, **Database Systems**, and **Machine Learning Models**
+- 🔧 Experience with **CI/CD**, **Cybersecurity Simulations**, and **Real-Time Web Applications**
+- 🚀 Always looking to learn and collaborate on exciting projects!
 
-## 🔹 Interests
-- Web Development
-- Machine Learning
-- Cybersecurity
-- Competitive Programming
 
 ## 🔹 Recent Projects
 - **Glitchy To-Do List Productivity Pal** - A glitchy to-do list web app with a dark theme  
@@ -18,9 +17,6 @@ I'm a **Computing Science student at Simon Fraser University**, passionate about
 ## 🔹 Find Me
 - LinkedIn: [@LinkedIn/rubendua](https://www.linkedin.com/in/ruben-dua/)
 <!-- - Portfolio: [rubendua.com](https://yourportfolio.com) -->
-
-I'm always eager to learn and collaborate on exciting projects! Feel free to explore my repositories and reach out. 🚀 <br>
-
 
 
 # 💻 Tech Stack:
